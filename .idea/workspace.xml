@@ -1,39 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="025e9b4c-18f4-4d29-b8d4-5ea85c57f939" name="Default Changelist" comment="" />
+    <list default="true" id="26893109-6cf0-42e8-bffd-3ccd4b2250de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Button_templete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Button_templete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Gui$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Gui$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/MatchFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/Gui/ReadAudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/MatchResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/MatchResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Recognito$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Recognito$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Recognito.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Recognito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Record$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Record$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Record.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Record.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/VoicePrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/VoicePrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/DiscreteAutocorrelationAtLagJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/DiscreteAutocorrelationAtLagJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/LinearPredictiveCoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/LinearPredictiveCoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/HammingWindowFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/HammingWindowFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/HannWindowFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/HannWindowFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/WindowFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/algorithms/windowing/WindowFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/ChebyshevDistanceCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/ChebyshevDistanceCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/DistanceCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/DistanceCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/EuclideanDistanceCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/distances/EuclideanDistanceCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/enhancements/Normalizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/enhancements/Normalizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/FeaturesExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/FeaturesExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/LpcFeaturesExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/LpcFeaturesExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/WindowedFeaturesExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/features/WindowedFeaturesExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/utils/FileHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/utils/FileHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/vad/AutocorrellatedVoiceActivityDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/TeamEnigma/cognito/vad/AutocorrellatedVoiceActivityDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/voice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp.wav" beforeDir="false" afterPath="$PROJECT_DIR$/tmp.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/Gui/Gui$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/Gui/Gui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/Gui/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/Gui/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/Gui/ReadAudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/MatchResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/Recognito$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/Recognito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/Record$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/VoicePrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/algorithms/DiscreteAutocorrelationAtLagJ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/algorithms/LinearPredictiveCoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/algorithms/windowing/HammingWindowFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/algorithms/windowing/HannWindowFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/algorithms/windowing/WindowFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/distances/ChebyshevDistanceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/distances/DistanceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/distances/EuclideanDistanceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/enhancements/Normalizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/features/FeaturesExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/features/LpcFeaturesExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/features/WindowedFeaturesExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/utils/FileHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/com/TeamEnigma/cognito/vad/AutocorrellatedVoiceActivityDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/out/production/voice/voice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/sample-set-1/Sir.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/sample-set-1/saurav.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/sample-set-1/siam.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/sample-set-1/tahmid.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/sample/tahmid.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/Gui/Button_templete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/Gui/Gui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/Gui/LayCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/Gui/MatchFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/MatchResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/Recognito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/VoicePrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/algorithms/DiscreteAutocorrelationAtLagJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/algorithms/LinearPredictiveCoding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/algorithms/windowing/HammingWindowFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/algorithms/windowing/HannWindowFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/algorithms/windowing/WindowFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/distances/ChebyshevDistanceCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/distances/DistanceCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/distances/EuclideanDistanceCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/enhancements/Normalizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/features/FeaturesExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/features/LpcFeaturesExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/features/WindowedFeaturesExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/utils/FileHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/cognito/vad/AutocorrellatedVoiceActivityDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/src/voice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/tmp.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voice/voice/voice.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1okiLchkf16W8w5rS2LpaOy4Gdd" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ovvYkbv0n8A5lG1b2BiLtOv8uV" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/voice/voice/src/com/TeamEnigma/Gui" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\OneDrivecopy\Desktop\test\voice\voice\src\com\TeamEnigma\Gui" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.MatchFrame">
     <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.TeamEnigma.Gui.Gui" />
-      <module name="Test" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.TeamEnigma.Gui.*" />
@@ -42,11 +173,12 @@
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
     <configuration name="MatchFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.TeamEnigma.Gui.MatchFrame" />
-      <module name="Test" />
+      <module name="test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.TeamEnigma.Gui.*" />
@@ -55,45 +187,103 @@
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TeamEnigma.cognito.Tester" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.TeamEnigma.cognito.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MatchFrame" />
         <item itemvalue="Application.Gui" />
-        <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="025e9b4c-18f4-4d29-b8d4-5ea85c57f939" name="Default Changelist" comment="" />
-      <created>1613836936211</created>
+      <changelist id="26893109-6cf0-42e8-bffd-3ccd4b2250de" name="Default Changelist" comment="" />
+      <created>1614179933512</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613836936211</updated>
-      <workItem from="1613843850104" duration="3298000" />
+      <updated>1614179933512</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614180329227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614180329227" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614180329227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614180329227" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614180329227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614180329227" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614180329227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614180329227" />
   </component>
 </project>

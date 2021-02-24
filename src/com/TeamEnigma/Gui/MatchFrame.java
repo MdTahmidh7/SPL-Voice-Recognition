@@ -64,8 +64,6 @@ public class MatchFrame extends Button_templete {
                 passwordlabel.setVisible(true);
             }
         });
-
-
     }
 
     public static void main(String[] args) {

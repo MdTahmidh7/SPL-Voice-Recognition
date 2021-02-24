@@ -54,7 +54,7 @@ public class Tester {
                     finalPerson=s;
                 }
             }
-            if(finalMax>80){
+            if(finalMax>30){
                 System.out.println("predicted final person : "+ finalPerson + " with accuracy " + finalMax);
                 result.append("predicted final person : ").append(finalPerson).append(" with accuracy ").append(finalMax);
             }
